@@ -1,8 +1,8 @@
 # 🏦 Customer Investment Needs — ML Recommendation Engine
 
-> A production-grade, end-to-end machine learning pipeline for classifying client investment needs and generating personalized Next Best Action (NBA) recommendations in a wealth management context.
+> An end-to-end machine learning pipeline for classifying client investment needs and generating personalized Next Best Action (NBA) recommendations in a wealth management context.
 
-Built as part of a business case module taught by **Raffaele Zenti** (Co-Founder & Chief AI Officer, Whealthype-AI SpA) at **Politecnico di Milano — Mathematical Engineering (Quantitative Finance Track)**.
+Built as a business case module by **Raffaele Zenti** (Co-Founder & Chief AI Officer, Whealthype-AI SpA) at **Politecnico di Milano — Mathematical Engineering (Quantitative Finance Track)**.
 
 ---
 
